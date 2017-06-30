@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Raxaconta</string>
+    <string name="str_titulo">Raxa Conta</string>
+    <string name="str_pessoa">Pessoas</string>
+    <string name="str_valor">Valor</string>
+    <string name="str_resultado">Resultado</string>
+</resources>
